@@ -3,7 +3,7 @@ plugins{
 }
 
 repositories{
-	csci2020u()
+	mavenCentral()
 }
 
 dependancies{
